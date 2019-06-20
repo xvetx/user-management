@@ -1,10 +1,10 @@
 <?php
 use webvimark\extensions\GridBulkActions\GridBulkActions;
 use webvimark\extensions\GridPageSize\GridPageSize;
-use webvimark\modules\UserManagement\components\GhostHtml;
-use webvimark\modules\UserManagement\models\rbacDB\AuthItemGroup;
-use webvimark\modules\UserManagement\models\rbacDB\Permission;
-use webvimark\modules\UserManagement\UserManagementModule;
+use xvetx\modules\UserManagement\components\GhostHtml;
+use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
+use xvetx\modules\UserManagement\models\rbacDB\Permission;
+use xvetx\modules\UserManagement\UserManagementModule;
 use yii\grid\GridView;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
@@ -13,7 +13,7 @@ use yii\widgets\Pjax;
 
 /**
  * @var yii\data\ActiveDataProvider $dataProvider
- * @var webvimark\modules\UserManagement\models\rbacDB\search\PermissionSearch $searchModel
+ * @var xvetx\modules\UserManagement\models\rbacDB\search\PermissionSearch $searchModel
  * @var yii\web\View $this
  */
 $this->title = UserManagementModule::t('back', 'Permissions');

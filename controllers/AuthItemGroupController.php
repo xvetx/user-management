@@ -1,9 +1,9 @@
 <?php
 
-namespace webvimark\modules\UserManagement\controllers;
+namespace xvetx\modules\UserManagement\controllers;
 
-use webvimark\modules\UserManagement\models\rbacDB\AuthItemGroup;
-use webvimark\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;
+use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
+use xvetx\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;
 use Yii;
 use webvimark\components\AdminDefaultController;
 
@@ -15,12 +15,12 @@ class AuthItemGroupController extends AdminDefaultController
 	/**
 	 * @var AuthItemGroup
 	 */
-	public $modelClass = 'webvimark\modules\UserManagement\models\rbacDB\AuthItemGroup';
+	public $modelClass = 'xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup';
 
 	/**
 	 * @var AuthItemGroupSearch
 	 */
-	public $modelSearchClass = 'webvimark\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch';
+	public $modelSearchClass = 'xvetx\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch';
 
 	/**
 	 * Define redirect page after update, create, delete, etc

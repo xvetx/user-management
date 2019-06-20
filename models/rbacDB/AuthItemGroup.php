@@ -1,8 +1,8 @@
 <?php
 
-namespace webvimark\modules\UserManagement\models\rbacDB;
+namespace xvetx\modules\UserManagement\models\rbacDB;
 
-use webvimark\modules\UserManagement\UserManagementModule;
+use xvetx\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\behaviors\TimestampBehavior;
 

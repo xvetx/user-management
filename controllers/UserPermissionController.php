@@ -1,12 +1,12 @@
 <?php
 
-namespace webvimark\modules\UserManagement\controllers;
+namespace xvetx\modules\UserManagement\controllers;
 
 use webvimark\components\BaseController;
-use webvimark\modules\UserManagement\models\rbacDB\Permission;
-use webvimark\modules\UserManagement\models\rbacDB\Role;
-use webvimark\modules\UserManagement\models\User;
-use webvimark\modules\UserManagement\UserManagementModule;
+use xvetx\modules\UserManagement\models\rbacDB\Permission;
+use xvetx\modules\UserManagement\models\rbacDB\Role;
+use xvetx\modules\UserManagement\models\User;
+use xvetx\modules\UserManagement\UserManagementModule;
 use yii\web\NotFoundHttpException;
 use Yii;
 
