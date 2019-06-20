@@ -417,4 +417,9 @@ class User extends UserIdentity
 
 		return parent::beforeDelete();
 	}
+	
+	public function getIsAdmin()
+        {
+                return true;
+        }
 }
