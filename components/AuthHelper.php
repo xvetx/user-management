@@ -350,6 +350,16 @@ class AuthHelper
 					$className = $namespace . Inflector::id2camel($id) . 'Controller';
 					if ( strpos($className, '-') === false && class_exists($className) && is_subclass_of($className, 'yii\base\Controller') )
 					{
+						if($className =='Da\User\Controller\AbstractAuthItemController') continue;
+						if($prefix . $id =='admin') continue;
+						if($prefix . $id =='permission') continue;
+						if($prefix . $id =='profile') continue;
+						if($prefix . $id =='recovery') continue;
+						if($prefix . $id =='registration') continue;
+						if($prefix . $id =='role') continue;
+						if($prefix . $id =='security') continue;
+						if($prefix . $id =='settings') continue;
+						
 						$controller = new $className($prefix . $id, $module);
 						self::getActionRoutes($controller, $result);
 						$result[] = '/' . $controller->uniqueId . '/*';
