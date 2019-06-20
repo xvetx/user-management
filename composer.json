@@ -1,6 +1,18 @@
 {
 	"name": "xvetx/module-user-management",
+	"type": "yii2-extension",
+	"keywords": ["yii2","yii2-user","user-management"],
 	"description": "User with improved RBAC",
+	"authors": [
+		{
+			"name": "Xvetx",
+			"email": "xvetx2013t@gmail.com"
+		},
+		{
+			"name": "webvimark"
+		}
+	],
+	"license": "BSD-3-Clause",
 	"autoload": {
 		"psr-4": {
 			"xvetx\\modules\\UserManagement\\": ""
