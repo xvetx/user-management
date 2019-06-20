@@ -8,7 +8,7 @@ use xvetx\modules\UserManagement\models\rbacDB\AbstractItem;
 use xvetx\modules\UserManagement\models\rbacDB\Permission;
 use xvetx\modules\UserManagement\models\rbacDB\Route;
 use xvetx\modules\UserManagement\models\rbacDB\search\PermissionSearch;
-use webvimark\components\AdminDefaultController;
+use xvetx\components\AdminDefaultController;
 use xvetx\modules\UserManagement\UserManagementModule;
 use Yii;
 

@@ -2,7 +2,7 @@
 
 namespace xvetx\modules\UserManagement\controllers;
 
-use webvimark\components\BaseController;
+use xvetx\components\BaseController;
 use xvetx\modules\UserManagement\models\rbacDB\Permission;
 use xvetx\modules\UserManagement\models\rbacDB\Role;
 use xvetx\modules\UserManagement\models\User;

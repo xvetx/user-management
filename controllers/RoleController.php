@@ -6,7 +6,7 @@ use xvetx\modules\UserManagement\components\AuthHelper;
 use xvetx\modules\UserManagement\models\rbacDB\Permission;
 use xvetx\modules\UserManagement\models\rbacDB\Role;
 use xvetx\modules\UserManagement\models\rbacDB\search\RoleSearch;
-use webvimark\components\AdminDefaultController;
+use xvetx\components\AdminDefaultController;
 use xvetx\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\rbac\DbManager;

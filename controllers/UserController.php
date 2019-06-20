@@ -2,7 +2,7 @@
 
 namespace xvetx\modules\UserManagement\controllers;
 
-use webvimark\components\AdminDefaultController;
+use xvetx\components\AdminDefaultController;
 use Yii;
 use xvetx\modules\UserManagement\models\User;
 use xvetx\modules\UserManagement\models\search\UserSearch;

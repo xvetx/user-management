@@ -5,7 +5,7 @@ namespace xvetx\modules\UserManagement\controllers;
 use Yii;
 use xvetx\modules\UserManagement\models\UserVisitLog;
 use xvetx\modules\UserManagement\models\search\UserVisitLogSearch;
-use webvimark\components\AdminDefaultController;
+use xvetx\components\AdminDefaultController;
 
 /**
  * UserVisitLogController implements the CRUD actions for UserVisitLog model.

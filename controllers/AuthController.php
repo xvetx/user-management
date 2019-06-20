@@ -2,7 +2,7 @@
 
 namespace xvetx\modules\UserManagement\controllers;
 
-use webvimark\components\BaseController;
+use xvetx\components\BaseController;
 use xvetx\modules\UserManagement\components\UserAuthEvent;
 use xvetx\modules\UserManagement\models\forms\ChangeOwnPasswordForm;
 use xvetx\modules\UserManagement\models\forms\ConfirmEmailForm;

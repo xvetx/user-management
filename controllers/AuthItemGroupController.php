@@ -5,7 +5,7 @@ namespace xvetx\modules\UserManagement\controllers;
 use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
 use xvetx\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;
 use Yii;
-use webvimark\components\AdminDefaultController;
+use xvetx\components\AdminDefaultController;
 
 /**
  * AuthItemGroupController implements the CRUD actions for AuthItemGroup model.
