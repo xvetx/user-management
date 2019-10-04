@@ -15,11 +15,11 @@
 	"license": "BSD-3-Clause",
 	"autoload": {
 		"psr-4": {
-			"xvetx\\modules\\UserManagement\\": ""
+			"wheelet\\modules\\UserManagement\\": ""
 		}
 	},
 	"require": {
-		"xvetx/components": "^1.0.0",
+		"wheelet/components": "^1.0.0",
 		"webvimark/bootstrap-switch": "^1.0.0",
 		"ikimea/browser": "1.12.0",
 		"webvimark/date-range-picker": "^1.0.0",
