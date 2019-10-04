@@ -2,10 +2,10 @@
 
 namespace wheelet\modules\UserManagement\controllers;
 
-use xvetx\components\AdminDefaultController;
+use wheelet\components\AdminDefaultController;
 use Yii;
-use xvetx\modules\UserManagement\models\User;
-use xvetx\modules\UserManagement\models\search\UserSearch;
+use wheelet\modules\UserManagement\models\User;
+use wheelet\modules\UserManagement\models\search\UserSearch;
 use yii\web\NotFoundHttpException;
 
 /**

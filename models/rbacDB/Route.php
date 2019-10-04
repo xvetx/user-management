@@ -1,7 +1,7 @@
 <?php
 namespace wheelet\modules\UserManagement\models\rbacDB;
 
-use xvetx\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\components\AuthHelper;
 use yii\base\Action;
 use yii\db\Expression;
 use yii\db\Query;

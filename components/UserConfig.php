@@ -7,7 +7,7 @@ use Yii;
 
 /**
  * Class UserConfig
- * @package xvetx\modules\UserManagement\components
+ * @package wheelet\modules\UserManagement\components
  */
 class UserConfig extends User
 {

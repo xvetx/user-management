@@ -4,8 +4,8 @@
  * @var $model xvetx\modules\UserManagement\models\forms\LoginForm
  */
 
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\bootstrap\ActiveForm;
 use yii\helpers\Html;
 ?>

@@ -2,10 +2,10 @@
 
 namespace wheelet\modules\UserManagement\controllers;
 
-use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
-use xvetx\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;
+use wheelet\modules\UserManagement\models\rbacDB\AuthItemGroup;
+use wheelet\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;
 use Yii;
-use xvetx\components\AdminDefaultController;
+use wheelet\components\AdminDefaultController;
 
 /**
  * AuthItemGroupController implements the CRUD actions for AuthItemGroup model.

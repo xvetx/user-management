@@ -1,9 +1,9 @@
 <?php
 namespace wheelet\modules\UserManagement\models\rbacDB;
 
-use xvetx\modules\UserManagement\components\AuthHelper;
-use xvetx\modules\UserManagement\components\AbstractItemEvent;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\components\AbstractItemEvent;
+use wheelet\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\base\Event;
 use yii\base\ModelEvent;

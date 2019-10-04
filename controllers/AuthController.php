@@ -2,14 +2,14 @@
 
 namespace wheelet\modules\UserManagement\controllers;
 
-use xvetx\components\BaseController;
-use xvetx\modules\UserManagement\components\UserAuthEvent;
-use xvetx\modules\UserManagement\models\forms\ChangeOwnPasswordForm;
-use xvetx\modules\UserManagement\models\forms\ConfirmEmailForm;
-use xvetx\modules\UserManagement\models\forms\LoginForm;
-use xvetx\modules\UserManagement\models\forms\PasswordRecoveryForm;
-use xvetx\modules\UserManagement\models\User;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\components\BaseController;
+use wheelet\modules\UserManagement\components\UserAuthEvent;
+use wheelet\modules\UserManagement\models\forms\ChangeOwnPasswordForm;
+use wheelet\modules\UserManagement\models\forms\ConfirmEmailForm;
+use wheelet\modules\UserManagement\models\forms\LoginForm;
+use wheelet\modules\UserManagement\models\forms\PasswordRecoveryForm;
+use wheelet\modules\UserManagement\models\User;
+use wheelet\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\web\ForbiddenHttpException;
 use yii\web\NotFoundHttpException;

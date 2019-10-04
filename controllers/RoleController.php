@@ -2,12 +2,12 @@
 
 namespace wheelet\modules\UserManagement\controllers;
 
-use xvetx\modules\UserManagement\components\AuthHelper;
-use xvetx\modules\UserManagement\models\rbacDB\Permission;
-use xvetx\modules\UserManagement\models\rbacDB\Role;
-use xvetx\modules\UserManagement\models\rbacDB\search\RoleSearch;
-use xvetx\components\AdminDefaultController;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\models\rbacDB\Permission;
+use wheelet\modules\UserManagement\models\rbacDB\Role;
+use wheelet\modules\UserManagement\models\rbacDB\search\RoleSearch;
+use wheelet\components\AdminDefaultController;
+use wheelet\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\rbac\DbManager;
 

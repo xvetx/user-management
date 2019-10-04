@@ -10,9 +10,9 @@
  * @var yii\rbac\Role $role
  */
 
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\models\rbacDB\Role;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\models\rbacDB\Role;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 

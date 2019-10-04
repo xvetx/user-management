@@ -3,9 +3,9 @@
 namespace wheelet\modules\UserManagement\controllers;
 
 use Yii;
-use xvetx\modules\UserManagement\models\UserVisitLog;
-use xvetx\modules\UserManagement\models\search\UserVisitLogSearch;
-use xvetx\components\AdminDefaultController;
+use wheelet\modules\UserManagement\models\UserVisitLog;
+use wheelet\modules\UserManagement\models\search\UserVisitLogSearch;
+use wheelet\components\AdminDefaultController;
 
 /**
  * UserVisitLogController implements the CRUD actions for UserVisitLog model.

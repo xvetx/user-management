@@ -2,7 +2,7 @@
 namespace wheelet\modules\UserManagement\models\rbacDB;
 
 use Exception;
-use xvetx\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\components\AuthHelper;
 use Yii;
 use yii\rbac\DbManager;
 

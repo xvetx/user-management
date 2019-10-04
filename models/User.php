@@ -4,11 +4,11 @@ namespace wheelet\modules\UserManagement\models;
 
 use webvimark\helpers\LittleBigHelper;
 use webvimark\helpers\Singleton;
-use xvetx\modules\UserManagement\components\AuthHelper;
-use xvetx\modules\UserManagement\components\UserIdentity;
-use xvetx\modules\UserManagement\models\rbacDB\Role;
-use xvetx\modules\UserManagement\models\rbacDB\Route;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\components\UserIdentity;
+use wheelet\modules\UserManagement\models\rbacDB\Role;
+use wheelet\modules\UserManagement\models\rbacDB\Route;
+use wheelet\modules\UserManagement\UserManagementModule;
 use Yii;
 use yii\behaviors\TimestampBehavior;
 

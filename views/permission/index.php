@@ -1,10 +1,10 @@
 <?php
 use webvimark\extensions\GridBulkActions\GridBulkActions;
 use webvimark\extensions\GridPageSize\GridPageSize;
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
-use xvetx\modules\UserManagement\models\rbacDB\Permission;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\models\rbacDB\AuthItemGroup;
+use wheelet\modules\UserManagement\models\rbacDB\Permission;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\grid\GridView;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;

@@ -3,13 +3,13 @@
 namespace wheelet\modules\UserManagement\controllers;
 
 
-use xvetx\modules\UserManagement\components\AuthHelper;
-use xvetx\modules\UserManagement\models\rbacDB\AbstractItem;
-use xvetx\modules\UserManagement\models\rbacDB\Permission;
-use xvetx\modules\UserManagement\models\rbacDB\Route;
-use xvetx\modules\UserManagement\models\rbacDB\search\PermissionSearch;
-use xvetx\components\AdminDefaultController;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\AuthHelper;
+use wheelet\modules\UserManagement\models\rbacDB\AbstractItem;
+use wheelet\modules\UserManagement\models\rbacDB\Permission;
+use wheelet\modules\UserManagement\models\rbacDB\Route;
+use wheelet\modules\UserManagement\models\rbacDB\search\PermissionSearch;
+use wheelet\components\AdminDefaultController;
+use wheelet\modules\UserManagement\UserManagementModule;
 use Yii;
 
 class PermissionController extends AdminDefaultController

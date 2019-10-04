@@ -1,9 +1,9 @@
 <?php
 
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\models\rbacDB\Role;
-use xvetx\modules\UserManagement\models\User;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\models\rbacDB\Role;
+use wheelet\modules\UserManagement\models\User;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Url;

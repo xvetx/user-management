@@ -10,7 +10,7 @@ use yii\widgets\Menu;
  * Show only those items in navigation menu which user can see
  * If item has no "visible" key, than "visible"=>User::canRoute($item['url') will be added
  *
- * @package xvetx\modules\UserManagement\components
+ * @package wheelet\modules\UserManagement\components
  */
 class GhostMenu extends Menu
 {

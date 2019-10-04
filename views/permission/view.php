@@ -9,8 +9,8 @@
  * @var yii\rbac\Permission $item
  */
 
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 

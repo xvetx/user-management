@@ -1,7 +1,7 @@
 <?php
 
-use xvetx\modules\UserManagement\components\GhostHtml;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\modules\UserManagement\components\GhostHtml;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\helpers\ArrayHelper;

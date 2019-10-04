@@ -13,7 +13,7 @@ use yii\helpers\Html;
  *
  * Show elements only to those, who can access to them
  *
- * @package xvetx\modules\UserManagement\components
+ * @package wheelet\modules\UserManagement\components
  */
 class GhostHtml extends Html
 {

@@ -2,11 +2,11 @@
 
 namespace wheelet\modules\UserManagement\controllers;
 
-use xvetx\components\BaseController;
-use xvetx\modules\UserManagement\models\rbacDB\Permission;
-use xvetx\modules\UserManagement\models\rbacDB\Role;
-use xvetx\modules\UserManagement\models\User;
-use xvetx\modules\UserManagement\UserManagementModule;
+use wheelet\components\BaseController;
+use wheelet\modules\UserManagement\models\rbacDB\Permission;
+use wheelet\modules\UserManagement\models\rbacDB\Role;
+use wheelet\modules\UserManagement\models\User;
+use wheelet\modules\UserManagement\UserManagementModule;
 use yii\web\NotFoundHttpException;
 use Yii;
 
