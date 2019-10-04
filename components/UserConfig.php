@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\components;
+namespace wheelet\modules\UserManagement\components;
 
 use yii\web\User;
 use Yii;

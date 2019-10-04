@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\models;
+namespace wheelet\modules\UserManagement\models;
 
 use webvimark\helpers\LittleBigHelper;
 use webvimark\helpers\Singleton;

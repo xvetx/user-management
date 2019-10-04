@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement;
+namespace wheelet\modules\UserManagement;
 
 use Yii;
 use yii\helpers\ArrayHelper;
@@ -183,7 +183,7 @@ class UserManagementModule extends \yii\base\Module
 	public $auth_assignment_table = '{{%auth_assignment}}';
 	public $auth_rule_table = '{{%auth_rule}}';
 
-	public $controllerNamespace = 'xvetx\modules\UserManagement\controllers';
+	public $controllerNamespace = 'wheelet\modules\UserManagement\controllers';
 
 	/**
 	 * @p

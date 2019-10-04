@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\models\forms;
+namespace wheelet\modules\UserManagement\models\forms;
 
 use webvimark\helpers\LittleBigHelper;
 use xvetx\modules\UserManagement\models\User;

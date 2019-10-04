@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\models\forms;
+namespace wheelet\modules\UserManagement\models\forms;
 
 use xvetx\modules\UserManagement\models\User;
 use xvetx\modules\UserManagement\UserManagementModule;

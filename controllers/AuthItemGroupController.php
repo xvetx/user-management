@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\controllers;
+namespace wheelet\modules\UserManagement\controllers;
 
 use xvetx\modules\UserManagement\models\rbacDB\AuthItemGroup;
 use xvetx\modules\UserManagement\models\rbacDB\search\AuthItemGroupSearch;

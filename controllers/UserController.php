@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\controllers;
+namespace wheelet\modules\UserManagement\controllers;
 
 use xvetx\components\AdminDefaultController;
 use Yii;

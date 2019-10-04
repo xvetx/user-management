@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\controllers;
+namespace wheelet\modules\UserManagement\controllers;
 
 use xvetx\components\BaseController;
 use xvetx\modules\UserManagement\models\rbacDB\Permission;

@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\models\rbacDB;
+namespace wheelet\modules\UserManagement\models\rbacDB;
 
 use Exception;
 use xvetx\modules\UserManagement\components\AuthHelper;

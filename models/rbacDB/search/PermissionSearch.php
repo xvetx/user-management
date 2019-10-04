@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\models\rbacDB\search;
+namespace wheelet\modules\UserManagement\models\rbacDB\search;
 
 class PermissionSearch extends AbstractItemSearch
 {

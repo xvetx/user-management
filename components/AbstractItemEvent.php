@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\components;
+namespace wheelet\modules\UserManagement\components;
 
 use yii\base\Event;
 

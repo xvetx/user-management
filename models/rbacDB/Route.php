@@ -1,5 +1,5 @@
 <?php
-namespace xvetx\modules\UserManagement\models\rbacDB;
+namespace wheelet\modules\UserManagement\models\rbacDB;
 
 use xvetx\modules\UserManagement\components\AuthHelper;
 use yii\base\Action;

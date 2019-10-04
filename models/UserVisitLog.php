@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\models;
+namespace wheelet\modules\UserManagement\models;
 
 use Ikimea\Browser\Browser;
 use webvimark\helpers\LittleBigHelper;

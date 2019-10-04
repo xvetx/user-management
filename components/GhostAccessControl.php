@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\components;
+namespace wheelet\modules\UserManagement\components;
 
 use xvetx\modules\UserManagement\models\rbacDB\Route;
 use xvetx\modules\UserManagement\models\User;

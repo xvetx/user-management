@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\controllers;
+namespace wheelet\modules\UserManagement\controllers;
 
 use Yii;
 use xvetx\modules\UserManagement\models\UserVisitLog;

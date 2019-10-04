@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\models\rbacDB\search;
+namespace wheelet\modules\UserManagement\models\rbacDB\search;
 
 use xvetx\modules\UserManagement\models\rbacDB\AbstractItem;
 use xvetx\modules\UserManagement\models\rbacDB\Permission;

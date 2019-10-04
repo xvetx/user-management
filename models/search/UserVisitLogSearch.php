@@ -1,6 +1,6 @@
 <?php
 
-namespace xvetx\modules\UserManagement\models\search;
+namespace wheelet\modules\UserManagement\models\search;
 
 use xvetx\modules\UserManagement\models\User;
 use Yii;
